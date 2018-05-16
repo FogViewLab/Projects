@@ -6,5 +6,5 @@ Link : [Usefultools][UFTrepo]
 
 By [MattixNow][MN]
 
-[MN] : https://github.com/MattixNow/
-[UFTrepo] : https://github.com/MattixNow/usefultools/
+[MN]: https://github.com/MattixNow/
+[UFTrepo]: https://github.com/MattixNow/usefultools/
