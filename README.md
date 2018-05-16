@@ -7,10 +7,9 @@ Liste des projets de FogView.
 | Techin4matic | [ACourbier][AC] | [Techin4matic][TIrepo]                                      | :x:                       | :pencil:   | ![Techin4matic lastcommit][TI.LC] |
 
 
-By [MattixNow][MN]
 
 ## Syntax :
-| Emoji or badges                      | Signification                                                   |
+| Emoji ou badges                    | Signification                                                   |
 | :----------------------------------: | --------------------------------------------------------------- |
 | :x:                                  | Inexistant                                                      |
 | :pencil:                             | En développement / Pas fini                                     |
@@ -18,6 +17,7 @@ By [MattixNow][MN]
 | :wrench:                             | Projet fini maintenance continue                                |
 | ![Projects lastcommit][PRJ.LC]   | Badge permettant de verifier la derniére activité du repository |
 
+By [MattixNow][MN]
 
 [MN]: https://github.com/MattixNow
 [AC]: https://twitter.com/arthur_crbr
