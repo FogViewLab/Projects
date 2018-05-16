@@ -2,7 +2,7 @@
 Liste des projets de FogView.
 
 | Projets      | Auteurs         | Repository                                                  | Host                      | Status     | Last Commit                       |
-| ------------ | --------------- | ----------------------------------------------------------- | :-----------------------: | ---------- | --------------------------------- |
+| ------------ | --------------- | ----------------------------------------------------------- | :-----------------------: | :----------: | :---------------------------------: |
 | Usefultools  | [MattixNow][MN] | [Usefultools][UFTrepo]                                      | [Main WebSite][UFThost]   | :pencil:   | ![UsefulTools LastCommit][UFT.LC] |
 | Techin4matic | [ACourbier][AC] | [Techin4matic][TIrepo]                                      | :x:                       | :pencil:   | ![Techin4matic lastcommit][TI.LC] |
 
