@@ -1,21 +1,24 @@
 # Projects
 Liste des projets de FogView.
 
-| Projets      | Auteurs         | Repository                                                  | Host                      | Status     | Last Commit                       |
-| ------------ | --------------- | ----------------------------------------------------------- | :-----------------------: | :----------: | :---------------------------------: |
-| Usefultools  | [MattixNow][MN] | [Usefultools][UFTrepo]                                      | [Main WebSite][UFThost]   | :pencil:   | ![UsefulTools LastCommit][UFT.LC] |
-| Techin4matic | [ACourbier][AC] | [Techin4matic][TIrepo]                                      | :x:                       | :pencil:   | ![Techin4matic lastcommit][TI.LC] |
+| Projets      | Auteurs         | Repository                                                  | Host                        | Status       | Last Commit                         |
+| ------------ | --------------- | ----------------------------------------------------------- | :-------------------------: | :----------: | :---------------------------------: |
+| Usefultools  | [MattixNow][MN] | [Usefultools][UFTrepo]                                      | [Main WebSite][UFThost]     | :pencil:     | ![UsefulTools LastCommit][UFT.LC]   |
+| Techin4matic | [ACourbier][AC] | [Techin4matic][TIrepo]                                      | :heavy_multiplication_x:    | :pencil:     | ![Techin4matic lastcommit][TI.LC]   |
+| Ply          | [MattixNow][MN] | Privé pour le moment                                        |                             | :new_moon:   |                                     |
 
 
 
 ## Syntax :
-| Emoji ou badges                    | Signification                                                   |
-| :----------------------------------: | --------------------------------------------------------------- |
-| :x:                                  | Inexistant                                                      |
-| :pencil:                             | En développement / Pas fini                                     |
-| :pushpin:                            | Projets Principal                                               |
-| :wrench:                             | Projet fini maintenance continue                                |
-| ![Projects lastcommit][PRJ.LC]   | Badge permettant de verifier la derniére activité du repository |
+| Emoji ou badges                                                                      | Signification                                                   |
+| :----------------------------------------------------------------------------------: | --------------------------------------------------------------- |
+| :pushpin:                                                                            | Projets Principal                                               |
+| :wrench:                                                                             | Projet fini maintenance continue                                |
+| :pencil:                                                                             | En développement / Pas fini                                     |
+| :new_moon::waxing_crescent_moon::first_quarter_moon::waxing_gibbous_moon::full_moon: | Phases de construction d'un projet                              |
+| ![Projects lastcommit][PRJ.LC]                                                       | Badge permettant de verifier la derniére activité du repository |
+| :heavy_multiplication_x:                                                             | Inexistant                                                      |
+
 
 By [MattixNow][MN]
 
