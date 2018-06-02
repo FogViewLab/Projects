@@ -5,7 +5,7 @@ Liste des projets de FogView.
 | ------------ | --------------- | ----------------------------------------------------------- | :-------------------------: | :----------: | :---------------------------------: |
 | Usefultools  | [MattixNow][MN] | [Usefultools][UFTrepo]                                      | [Main WebSite][UFThost]     | :pencil:     | ![UsefulTools LastCommit][UFT.LC]   |
 | Techin4matic | [ACourbier][AC] | [Techin4matic][TIrepo]                                      | :heavy_multiplication_x:    | :pencil:     | ![Techin4matic lastcommit][TI.LC]   |
-| Ply          | [MattixNow][MN] | Privé pour le moment                                        |                             | :new_moon:   |                                     |
+| Ply          | [MattixNow][MN] | Privé pour le moment                                        | :heavy_multiplication_x:    | :new_moon:   | :heavy_multiplication_x:            |
 
 
 
@@ -14,6 +14,7 @@ Liste des projets de FogView.
 | :----------------------------------------------------------------------------------: | --------------------------------------------------------------- |
 | :pushpin:                                                                            | Projets Principal                                               |
 | :wrench:                                                                             | Projet fini maintenance continue                                |
+| :white_check_mark:                                                                   | Projet fini ( peut se combiner avec :wrench:)                   |
 | :pencil:                                                                             | En développement / Pas fini                                     |
 | :new_moon::waxing_crescent_moon::first_quarter_moon::waxing_gibbous_moon::full_moon: | Phases de construction d'un projet                              |
 | ![Projects lastcommit][PRJ.LC]                                                       | Badge permettant de verifier la derniére activité du repository |
