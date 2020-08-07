@@ -14,5 +14,5 @@ By [MattixNow][MN]
 
 
 
-[MN]: https://github.com/MattixNow
+[MN]: https://github.com/MatteoGauthier
 [PRJ.LC]: https://img.shields.io/github/last-commit/FogViewLab/Projects.svg

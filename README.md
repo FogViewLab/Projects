@@ -23,10 +23,10 @@ Liste des projets de FogView.
 
 By [MattixNow][MN]
 
-[MN]: https://github.com/MattixNow
+[MN]: https://github.com/MatteoGauthier
 [AC]: https://twitter.com/arthur_crbr
 
-[UFTrepo]: https://github.com/MattixNow/usefultools
+[UFTrepo]: https://github.com/MatteoGauthier/usefultools
 [TIrepo]: https://github.com/FogViewLab/Techin4matic
 
 [UFThost]: https://fogview.web-edu.fr/usefultools
